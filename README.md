@@ -1,2 +1,2 @@
 # BiblicalPapyrusViewer
-App which displays scans of a few Biblical Manuscripts.
+App which displays scans of a few Biblical Papyrus Manuscripts.
