@@ -1,0 +1,150 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = C21FC180249FE46900B38F7F /* MiniBrowser */;
+		activeTarget = 8D1107260486CEB800E47090 /* MiniBrowser */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* MiniBrowser */,
+		);
+		codeSenseManager = C21FC188249FE48F00B38F7F /* Code sense */;
+		executables = (
+			C21FC180249FE46900B38F7F /* MiniBrowser */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 614458473;
+			PBXWorkspaceStateSaveDate = 614458473;
+		};
+		perUserProjectItems = {
+			C21FC1C6249FE8F900B38F7F /* PBXBookmark */ = C21FC1C6249FE8F900B38F7F /* PBXBookmark */;
+			C21FC455249FEF8D00B38F7F /* PBXTextBookmark */ = C21FC455249FEF8D00B38F7F /* PBXTextBookmark */;
+		};
+		sourceControlManager = C21FC187249FE48F00B38F7F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {711, 658}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 267}, {711, 391}}";
+			sepNavWindowFrame = "{{15, 58}, {750, 520}}";
+		};
+	};
+	834B12530795DCB300E4BF6C /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {854, 2352}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {711, 391}}";
+			sepNavWindowFrame = "{{15, 58}, {750, 520}}";
+		};
+	};
+	834B12550795DCB300E4BF6C /* MyDocument.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1214, 4326}}";
+			sepNavSelRange = "{3790, 0}";
+			sepNavVisRect = "{{0, 1089}, {711, 391}}";
+			sepNavWindowFrame = "{{2, -3}, {750, 520}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* MiniBrowser */ = {
+		activeExec = 0;
+		executables = (
+			C21FC180249FE46900B38F7F /* MiniBrowser */,
+		);
+	};
+	C21FC180249FE46900B38F7F /* MiniBrowser */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MiniBrowser;
+		sourceDirectories = (
+		);
+	};
+	C21FC187249FE48F00B38F7F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	C21FC188249FE48F00B38F7F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C21FC1C6249FE8F900B38F7F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 834B12550795DCB300E4BF6C /* MyDocument.m */;
+	};
+	C21FC455249FEF8D00B38F7F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 834B12550795DCB300E4BF6C /* MyDocument.m */;
+		name = "MyDocument.m: 89";
+		rLen = 0;
+		rLoc = 3790;
+		rType = 0;
+		vrLen = 938;
+		vrLoc = 3280;
+	};
+}
